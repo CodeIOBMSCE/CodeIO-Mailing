@@ -1,0 +1,392 @@
+Sl. No.,"USN/ 
+Application Id",Name,PROCTOR,Email ID ,Phone NO,Gender
+1,2023BMS01245,AADIT TOMAR,Dr. KVN,aadittomar.cs23@bmsce.ac.in,,Male
+2,2023BMS01408,AAMAL MOHSIN MAGDUM,Dr. KVN,aamalmohsin.cs23@bmsce.ac.in,,Female
+3,2023BMS01046,AARON B AJAY,Dr. KVN,aaronb.cs23@bmsce.ac.in,,Male
+4,2023BMS01331,AARUSH GARG,Dr. KVN,aarushgarg.cs23@bmsce.ac.in,,Male
+5,2023BMS01597,AARUSHA G P,Dr. KVN,aarushagp.cs23@bmsce.ac.in,,Female
+6,2023BMS00128,AARYAN PRAKASH,Dr. KVN,aaryanprakash.cs23@bmsce.ac.in,,Male
+7,2023BMS00635,AAYUSH SONI,Dr. KVN,aayushsoni.cs23@bmsce.ac.in,,Male
+8,2023BMS01887,ABHINAV C,Dr. KVN,abhinavc.cs23@bmsce.ac.in,,Male
+9,2023BMS00058,ABHINAV SANJAY,Dr. KVN,abhinavsanjay.cs23@bmsce.ac.in,,Male
+10,2023BMS00116,ABHIRAM RAYADURGAM,Dr. KVN,abhiramrayadurgam.cs23@bmsce.ac.in,,Male
+11,2023BMS00958,ABHISHEK,Dr. KVN,abhishek.cs23@bmsce.ac.in,,Male
+12,2023BMS01556,ABHISHEK PATIL,Dr. KVN,abhishekpatil.cs23@bmsce.ac.in,,Male
+13,2023BMS01406,ADARSH GANESHAN,Dr. KVN,adarshganeshan.cs23@bmsce.ac.in,,Male
+14,2023BMS01637,AFEEFAH,Dr. KVN,afeefah.cs23@bmsce.ac.in,,Female
+15,2023BMS00027,AFREEN ANZ,Dr. KVN,afreenanz.cs23@bmsce.ac.in,,Female
+16,2023BMS00089,AISHA ALI NYAZ,Dr. KVN,aishaali.cs23@bmsce.ac.in,,Female
+17,2023BMS00792,AKSHA S,Dr. KVN,akshas.cs23@bmsce.ac.in,,Female
+18,2023BMS00011,AKSHANSH KUMAR GUPTA,Dr. KVN,akshansh.cs23@bmsce.ac.in,,Male
+19,2023BMS01002,AKSHAT BASRA,Dr. KVN,akshatbasra.cs23@bmsce.ac.in,,Male
+20,2023BMS01318,AKSHAT KUMAR SINHA,Dr. KVN,akshatkumar.cs23@bmsce.ac.in,,Male
+21,2023BMS01419,AKSHAY.S,Dr. KVN,akshays.cs23@bmsce.ac.in,,Male
+22,2023BMS01407,AKUL J SHINGETAGERE,Dr. KVN,akulj.cs23@bmsce.ac.in,,Male
+23,2023BMS02349,ALOK,Dr. KVN,alok.cs23@bmsce.ac.in,,Male
+24,2023BMS00033,AMAL ROY,Dr. KVN,amalroy.cs23@bmsce.ac.in,,Male
+25,2023BMS01893,AMEENA YASMEEN,Dr. KVN,ameenayasmeen.cs23@bmsce.ac.in,,Female
+26,2023BMS00345,AMITH R,Dr. KVN,amithr.cs23@bmsce.ac.in,,Male
+27,2023BMS00259,AMOGH KRISHNA J S,Dr. KVN,amoghkrishna.cs23@bmsce.ac.in,,Male
+28,2023BMS00923,AMOGH SHAILESH RAU,Dr. KVN,amoghshailesh.cs23@bmsce.ac.in,,Male
+29,2023BMS01330,ANAG KAMLESH DEVNANI,Dr. KVN,anagkamlesh.cs23@bmsce.ac.in,,Male
+30,2023BMS02337,ANAGHA D K,Dr. KVN,anaghadk.cs23@bmsce.ac.in,,Female
+31,2023BMS01485,ANAND MOHAN GOSWAMI,Dr. KVN,anandmohan.cs23@bmsce.ac.in,,Male
+32,2023BMS01627,ANANYA N GOWDA,Dr. KVN,ananyan.cs23@bmsce.ac.in,,Female
+33,2023BMS00848,ANIKAIT PANI,Dr. KVN,anikaitpani.cs23@bmsce.ac.in,,Male
+34,2023BMS01098,ANIRUDH RAGHUNAND,Dr. KVN,anirudhraghunand.cs23@bmsce.ac.in,,Male
+35,2023BMS01749,ANJANA MANOJ,Dr. KVN,anjanamanoj.cs23@bmsce.ac.in,,Female
+1,2023BMS00099,ANMOL BHATTARAI,Dr.SG,anmolbhattarai.cs23@bmsce.ac.in,,Male
+2,2023BMS01257,ANNAMSETTI SARAN TEJ,Dr.SG,annamsetti.cs23@bmsce.ac.in,,Male
+3,2023BMS01481,ANNAS SHARIEFF,Dr.SG,annassharieff.cs23@bmsce.ac.in,,Male
+4,2023BMS00964,ANOOP Y PATIL,Dr.SG,anoopy.cs23@bmsce.ac.in,,Male
+5,2023BMS00818,ANTHRA VIKRAM,Dr.SG,anthravikram.cs23@bmsce.ac.in,,Female
+6,2023BMS00379,ANU SAI SHREE R,Dr.SG,anusai.cs23@bmsce.ac.in,,Female
+7,2023BMS00588,ANUSHREE VEERABHADRA KATTI,Dr.SG,anushreeveerabhadra.cs23@bmsce.ac.in,,Female
+8,2023BMS00056,APARNA SANKAR,Dr.SG,aparnasankar.cs23@bmsce.ac.in,,Female
+9,2023BMS00824,APRAMEYA S J,Dr.SG,aprameyasj.cs23@bmsce.ac.in,,Male
+10,2023BMS00601,ARCHITA V,Dr.SG,architav.cs23@bmsce.ac.in,,Female
+11,2023BMS01043,ARIZ EJAZ KHAN,Dr.SG,arizejaz.cs23@bmsce.ac.in,,Male
+12,2023BMS00041,ARNAV DINESH,Dr.SG,arnavdinesh.cs23@bmsce.ac.in,,Male
+13,2023BMS00788,Arpith Gowda H S,Dr.SG,arpithhs.cs23@bmsce.ac.in,,Male
+14,2023BMS01250,ARYAN KOLUR GOWDA,Dr.SG,aryankolur.cs23@bmsce.ac.in,,Male
+15,2023BMS00800,ARYAN NAVLANI,Dr.SG,aryannavlani.cs23@bmsce.ac.in,,Male
+16,2023BMS01901,AYAAN SHRESTHA,Dr.SG,ayaanshrestha.cs23@bmsce.ac.in,,Male
+17,2023BMS00600,AYUSH ADITYA,Dr.SG,ayushaditya.cs23@bmsce.ac.in,,Male
+18,2023BMS01509,AYUSH RANJAN,Dr.SG,ayushranjan.cs23@bmsce.ac.in,,Male
+19,2023BMS01895,B J KEERTANA,Dr.SG,bjkeertana.cs23@bmsce.ac.in,,Female
+20,2023BMS00119,B PRABHANJAN,Dr.SG,bprabhanjan.cs23@bmsce.ac.in,,Male
+21,2023BMS00115,B VATSAL,Dr.SG,bvatsal.cs23@bmsce.ac.in,,Male
+22,2023BMS00826,BALAKARTHIKEYAN M,Dr.SG,balakarthikeyan.cs23@bmsce.ac.in,,Male
+23,2023BMS00639,BHAVYA J MAKADIA,Dr.SG,bhavyaj.cs23@bmsce.ac.in,,Male
+24,2023BMS01498,BHOOMI SURESH KOTA,Dr.SG,bhoomisuresh.cs23@bmsce.ac.in,,Female
+25,2023BMS00097,BHOOMI UDEDH,Dr.SG,bhoomiudedh.cs23@bmsce.ac.in,,Female
+26,2023BMS00235,BHOOMIKA B G,Dr.SG,bhoomikabg.cs23@bmsce.ac.in,,Female
+27,2023BMS01651,BHOOMIKA.M,Dr.SG,bhoomikam.cs23@bmsce.ac.in,,Female
+28,2023BMS00587,BISWAJEET BEHERA,Dr.SG,biswajeet.cs23@bmsce.ac.in,,Male
+29,2023BMS01084,BOLLA RAJA SIMHA REDDY,Dr.SG,bollaraja.cs23@bmsce.ac.in,,Male
+30,2023BMS01512,BRAMHA ANILKUMAR BAJANNAVAR,Dr.SG,bramhaanilkumar.cs23@bmsce.ac.in,,Male
+31,2023BMS01322,CHADIVE MURALIDHAR REDDY,Dr.SG,chadivemuralidhar.cs23@bmsce.ac.in,,Male
+32,2023BMS01085,CHAITHANYA SUDHAN,Dr.SG,chaithanyasudhan.cs23@bmsce.ac.in,,Female
+33,2023BMS00552,CHETHAN K S,Dr.SG,chethanks.cs23@bmsce.ac.in,,Male
+34,2023BMS02237,CHETHAN N,Dr.SG,chethann.cs23@bmsce.ac.in,,Male
+35,2023BMS00847,CHETHAN T M,Dr.SG,chethantm.cs23@bmsce.ac.in,,Male
+1,2023BMS02326,CHETHANA C,Dr.SKS,chethanac.cs23@bmsce.ac.in,,Female
+2,2023BMS00846,CHIRAG G N,Dr.SKS,chiraggn.cs23@bmsce.ac.in,,Male
+3,2023BMS01454,CHIRAG S,Dr.SKS,chirags.cs23@bmsce.ac.in,,Male
+4,2023BMS00641,CHITRASHREE.K,Dr.SKS,chitrashreek.cs23@bmsce.ac.in,,Female
+5,2023BMS01256,CREVAN NEIL FERNANDES,Dr.SKS,crevanneil.cs23@bmsce.ac.in,,Male
+6,2023BMS02266,D A CHETHAN,Dr.SKS,dachethan.cs23@bmsce.ac.in,,Male
+7,2023BMS00983,DAIVYA PRIYANKKUMAR SHAH,Dr.SKS,daivya.cs23@bmsce.ac.in,,Male
+8,2023BMS00593,DANISH KODAVANTI,Dr.SKS,danish.cs23@bmsce.ac.in,,Male
+9,2023BMS01524,DARSHAN Y G,Dr.SKS,darshanyg.cs23@bmsce.ac.in,,Male
+10,2023BMS00721,DEEPTHI.M,Dr.SKS,deepthim.cs23@bmsce.ac.in,,Female
+11,2023BMS01559,DHANUSH S,Dr.SKS,dhanushs.cs23@bmsce.ac.in,,Male
+12,2023BMS01148,DHRUHI ATYKAR,Dr.SKS,dhruhiatykar.cs23@bmsce.ac.in,,Female
+13,2023BMS00307,DHRUVA S RAO,Dr.SKS,dhruvas.cs23@bmsce.ac.in,,Male
+14,2023BMS00603,DHRUVDEEP NAYAK,Dr.SKS,dhruvdeep2004@gmail.com,,Male
+15,2023BMS00251,DISHA D S,Dr.SKS,dishads.cs23@bmsce.ac.in,,Female
+16,2023BMS01531,Disha H Jain,Dr.SKS,dishajain.cs23@bmsce.ac.in,,Female
+17,2023BMS02244,DYUTHI,Dr.SKS,dyuthi.cs23@bmsce.ac.in,,Female
+18,2023BMS01638,EASHAN JAIN V,Dr.SKS,eashanjain.cs23@bmsce.ac.in,,Male
+19,2023BMS00786,G HRUSHIKESH PRADHAN,Dr.SKS,ghrushikesh.cs23@bmsce.ac.in,,Male
+20,2023BMS00970,GOPIKA PUSHPARAJAN,Dr.SKS,gopika.cs23@bmsce.ac.in,,Female
+21,2023BMS01313,GOVIND SINGH,Dr.SKS,govindsingh.cs23@bmsce.ac.in,,Male
+22,2023BMS00855,GUNASHREE G,Dr.SKS,gunashreeg.cs23@bmsce.ac.in,,Female
+23,2023BMS00252,HARSHA B,Dr.SKS,harshab.cs23@bmsce.ac.in,,Female
+24,2023BMS01764,HARSHITHA H G,Dr.SKS,harshithahg.cs23@bmsce.ac.in,,Female
+25,2023BMS02136,HEMANTH KUMAR R,Dr.SKS,hemanthkumar.cs23@bmsce.ac.in,,Male
+26,2023BMS00611,HIRAN B,Dr.SKS,hiranb.cs23@bmsce.ac.in,,Male
+27,2023BMS01028,HITESH SHARMA,Dr.SKS,hiteshsharma.cs23@bmsce.ac.in,,Male
+28,2023BMS01350,HITHA HARISH,Dr.SKS,hithaharish.cs23@bmsce.ac.in,,Female
+29,2023BMS00335,HITISH RAO P,Dr.SKS,hitishrao.cs23@bmsce.ac.in,,Male
+30,2023BMS00164,IDREES SHAIKH,Dr.SKS,idrees.cs23@bmsce.ac.in,,Male
+31,2023BMS01128,IKSHITHA P,Dr.SKS,ikshithap.cs23@bmsce.ac.in,,Female
+32,2023BMS01466,IRFAN SUDARANI,Dr.SKS,irfansudarani.cs23@bmsce.ac.in,,Male
+33,2023BMS00864,JANANI MOHAN,Dr.SKS,jananimohan.cs23@bmsce.ac.in,,Female
+34,2023BMS01119,JAWIN ROYS FERNANDES,Dr.SKS,jawinroys.cs23@bmsce.ac.in,,Male
+35,2023BMS02235,JAYANTH GOWDA. A,Dr.SKS,jayanthgowda.cs23@bmsce.ac.in,,Male
+1,2023BMS00046,JAYSHNAV RAVISHANKAR GOWDA,VBM,jayshnav.cs23@bmsce.ac.in,,Male
+2,2023BMS01514,JEEVAN RAMU R,VBM,jeevanramu.cs23@bmsce.ac.in,,Male
+3,2023BMS00500,JESVITA DIAS,VBM,jesvitadias.cs23@bmsce.ac.in,,Female
+4,2023BMS01182,JIYA GUPTA,VBM,jiyagupta.cs23@bmsce.ac.in,,Female
+5,2023BMS00221,JIYA NITTURKAR,VBM,jiyanitturkar.cs23@bmsce.ac.in,,Female
+6,2023BMS01540,K AISHWARYA,VBM,kaishwarya.cs23@bmsce.ac.in,,Female
+7,2023BMS01790,K INDU,VBM,kindu.cs23@bmsce.ac.in,,Female
+8,2023BMS01695,K R SAI SHARAN,VBM,krsaisharan.cs23@bmsce.ac.in,,Male
+9,2023BMS00813,K RAGHAVENDRA S ADIGA,VBM,kraghavendra.cs23@bmsce.ac.in,,Male
+10,2023BMS00609,K VEENA,VBM,kveena.cs23@bmsce.ac.in,,Female
+11,2023BMS00060,KALAGA HARSHA VARDHAN,VBM,kalagaharsha.cs23@bmsce.ac.in,,Male
+12,2023BMS01024,KAMIREDDY KEERTHI REDDY,VBM,kamireddy.cs23@bmsce.ac.in,,Female
+13,2023BMS00582,KANISHKA SHARMA,VBM,kanishkasharma.cs23@bmsce.ac.in,,Female
+14,2023BMS01278,KARAN SURESH NAIR,VBM,karansuresh.cs23@bmsce.ac.in,,Male
+15,2023BMS01888,KARTHIK O HAVALAGHATTA,VBM,karthiko.cs23@bmsce.ac.in,,Male
+16,2023BMS00857,KASHVI AGARWAL,VBM,kashviagarwal.cs23@bmsce.ac.in,,Female
+17,2023BMS01068,KATHI ABHILASH,VBM,kathiabhilash.cs23@bmsce.ac.in,,Male
+18,2023BMS01982,KAVANA M A,VBM,kavanama.cs23@bmsce.ac.in,,Female
+19,2023BMS00607,KAVYA SINGH,VBM,kavyasingh.cs23@bmsce.ac.in,,Female
+20,2023BMS01397,KEDAR JEVARGI,VBM,kedarjevargi.cs23@bmsce.ac.in,,Male
+21,2023BMS00191,KEERTHANA H BHAT,VBM,keerthanabhat.cs23@bmsce.ac.in,,Female
+22,2023BMS00137,KHAGENDRA KUMAR MAHATO,VBM,khagendra.cs23@bmsce.ac.in,,Male
+23,2023BMS00081,KHALID RABBANI,VBM,khalidrabbani.cs23@bmsce.ac.in,,Male
+24,2023BMS01151,KHUSHI NATARAJ,VBM,khushinataraj.cs23@bmsce.ac.in,,Female
+25,2023BMS01684,KISHEN DEEPAK,VBM,kishendeepak.cs23@bmsce.ac.in,,Male
+26,2023BMS00854,KISHLEY SHARMA,VBM,kishleysharma.cs23@bmsce.ac.in,,Male
+27,2023BMS01947,KISHORE CHANDRA N,VBM,kishorechandra.cs23@bmsce.ac.in,,Male
+28,2023BMS01018,KOLLU SAKETHARAM,VBM,kollusaketha.cs23@bmsce.ac.in,,Male
+29,2023BMS00998,KOTAGASTI MOHAMMAD FARHAN,VBM,kotagasti.cs23@bmsce.ac.in,,Male
+30,2023BMS00067,KRATISH PORWAL,VBM,kratishporwal.cs23@bmsce.ac.in,,Male
+31,2023BMS01799,KRISH BAM,VBM,krishbam.cs23@bmsce.ac.in,,Male
+32,2023BMS00219,KRITHIKA H KOTIAN,VBM,krithikah.cs23@bmsce.ac.in,,Female
+33,2023BMS00794,KUNAL RAJESH RASAL,VBM,kunalrajesh.cs23@bmsce.ac.in,,Male
+34,2023BMS01679,KUSHALL K KABADI,VBM,kushallk.cs23@bmsce.ac.in,,Male
+35,2023BMS00842,LAKSHITH P,VBM,lakshithp.cs23@bmsce.ac.in,,Male
+1,2023BMS01251,LAKSHYA KHANDELWAL,NM,lakshya.cs23@bmsce.ac.in,,Male
+2,2023BMS01729,LAVANYA B,NM,lalvanyab.cs23@bmsce.ac.in,,Female
+3,2023BMS00488,LAVANYA S S,NM,lavanyass.cs23@bmsce.ac.in,,Female
+4,2023BMS02304,LAXMI BANDI,NM,laxmibandi.cs23@bmsce.ac.in,,Female
+5,2023BMS02101,LIKHITH D,NM,likhithd.cs23@bmsce.ac.in,,Male
+6,2023BMS00637,LIKITH TARAKARAM,NM,likithtarakatam.cs23@bmsce.ac.in,,Male
+7,2023BMS01446,M S SHAILESH,NM,msshailesh.cs23@bmsce.ac.in,,Male
+8,2023BMS01932,MADHAN K,NM,madhank.cs23@bmsce.ac.in,,Male
+9,2023BMS01612,MAHAMAD AZIZ ANSARI,NM,mahamadaziz.cs23@bmsce.ac.in,,Male
+10,2023BMS00783,MAHANTESH VN,NM,mahanteshvn.cs23@bmsce.ac.in,,Male
+11,2023BMS01702,MAHESH LAMANI,NM,maheshlamani.cs23@bmsce.ac.in,,Male
+12,2023BMS01118,MAKADIA RISHIT DILIPBHAI,NM,rishitmakadia.cs23@bmsce.ac.in,,Male
+13,2023BMS00972,MALAVIKA MANOJ,NM,malavikamanoj.cs23@bmsce.ac.in,,Female
+14,2023BMS01758,MALLIKARJUN,NM,mallikarjun.cs23@bmsce.ac.in,,Male
+15,2023BMS00085,MANISH RAMU,NM,manishramu.cs23@bmsce.ac.in,,Male
+16,2023BMS00597,MANITH G RAJU,NM,manithr.cs23@bmsce.ac.in,,Male
+17,2023BMS00828,MANJUNATH ANGADI,NM,manjunathangadi.cs23@bmsce.ac.in,,Male
+18,2023BMS01905,MANOJ KULKARNI,NM,manojkulkarni.cs23@bmsce.ac.in,,Male
+19,2023BMS01672,MANOJKUMAR,NM,manojkumar.cs23@bmsce.ac.in,,Male
+20,2023BMS00138,MANUSHRI MADDALA,NM,manushri.cs23@bmsce.ac.in,,Female
+21,2023BMS01192,MECHINENI ANJUTHARUNI,NM,mechineni.cs23@bmsce.ac.in,,Female
+22,2023BMS00834,MEGHA CHANABASAPPA HULLATTI,NM,meghachanabasappa.cs23@bmsce.ac.in,,Female
+23,2023BMS00543,MEGHASHREE SIDDAPPA KARADI,NM,meghashree.cs23@bmsce.ac.in,,Female
+24,2023BMS01299,MICHELLE KARIKKASSERY,NM,michelle.cs23@bmsce.ac.in,,Female
+25,2023BMS01606,MITHUN M,NM,mithunm.cs23@bmsce.ac.in,,Male
+26,2023BMS02147,MOHAMMED ABDUL REHMAN FAADH Y,NM,mohammedabdul.cs23@bmsce.ac.in,,Male
+27,2023BMS00141,MOHAMMED AMAAN,NM,mohammedamaan.cs23@bmsce.ac.in,,Male
+28,2023BMS00575,MOHAMMED KALANDAR,NM,mohammedkalandar.cs23@bmsce.ac.in,,Male
+29,2023BMS00844,MOHAMMED SUFIYAN K,NM,mohammedsufiyan.cs23@bmsce.ac.in,,Male
+30,2023BMS00129,MOHAMMED SULAYMAN,NM,mohammedsulayman.cs23@bmsce.ac.in,,Male
+31,2023BMS01038,MOHIT KUMAR VERMA,NM,mohitkumar.cs23@bmsce.ac.in,,Male
+32,2023BMS01876,MONISH YUMNAM,NM,monishyumnam.cs23@bmsce.ac.in,,Male
+33,2023BMS00903,MUKHESH DN,NM,mukheshdn.cs23@bmsce.ac.in,,Male
+34,2023BMS01003,MUPPIDI SAI ADITHYA,NM,muppidisai.cs23@bmsce.ac.in,,Male
+35,2023BMS01064,NAMITA DEVABASAPPANAVAR ANILKUMAR,NM,namitadevabasappanavar.cs23@bmsce.ac.in,,Female
+1,2023BMS01347,NAREN KUMARARAJAH,SAN,naren.cs23@bmsce.ac.in,,Male
+2,2023BMS00231,NAVANIDHI D J,SAN,navanidhi.cs23@bmsce.ac.in,,Female
+3,2023BMS01095,NAVEEN KUMAR P N,SAN,naveenkumarpn.cs23@bmsce.ac.in,,Male
+4,2023BMS01730,NAVIRATH H N,SAN,navirathhn.cs23@bmsce.ac.in,,Male
+5,2023BMS01114,NAVNEET KUMAR,SAN,navneetkumar.cs23@bmsce.ac.in,,Male
+6,2023BMS01149,NAVNEET PITANI,SAN,navneetpitani.cs23@bmsce.ac.in,,Male
+7,2023BMS00636,NEHA SAJJANAR,SAN,nehasajjanar.cs23@bmsce.ac.in,,Female
+8,2023BMS01286,NEHA SUSAN BAIJU,SAN,nehasusan.cs23@bmsce.ac.in,,Female
+9,2023BMS00802,NIDHI DB,SAN,nidhidb.cs23@bmsce.ac.in,,Female
+10,2023BMS01662,NIDHI PRAMOD NAMBIAR,SAN,nidhipramod.cs23@bmsce.ac.in,,Female
+11,2023BMS00102,NIHAAN JONAS,SAN,nihaanjonas.cs23@bmsce.ac.in,,Male
+12,2023BMS00026,NISHANTH REDDY N,SAN,nishanthreddy.cs23@bmsce.ac.in,,Male
+13,2023BMS01342,NISHANTH S PADIGAR,SAN,nishanths.cs23@bmsce.ac.in,,Male
+14,2023BMS00496,NISHMITHA K G,SAN,nishmithakg.cs23@bmsce.ac.in,,Female
+15,2023BMS00823,NISHTA NAVEEN KHARIWAL,SAN,nishtanaveen.cs23@bmsce.ac.in,,Female
+16,2023BMS00913,NITHESH,SAN,nithesh.cs23@bmsce.ac.in,,Male
+17,2023BMS01795,NITHYA.S,SAN,nithyas.cs23@bmsce.ac.in,,Female
+18,2023BMS02038,OMKAR,SAN,omkar.cs23@bmsce.ac.in,,Male
+19,2023BMS00638,OWAIS ALI KHADIM BATTI,SAN,owais.cs23@bmsce.ac.in,,Male
+20,2023BMS00801,PADMA DEEPAK,SAN,padmadeepak.cs23@bmsce.ac.in,,Female
+21,2023BMS02154,PADMASHREE JAIN D,SAN,padmashreejain.cs23@bmsce.ac.in,,Female
+22,2023BMS01943,PALEPU VISHAL,SAN,palepuvishal.cs23@bmsce.ac.in,,Male
+23,2023BMS01878,PARASH KASHYAP,SAN,parashkashyap.cs23@bmsce.ac.in,,Male
+24,2023BMS01218,PARNIKA DEEPAK BHAT,SAN,parnikadeepak.cs23@bmsce.ac.in,,Female
+25,2023BMS01152,PARTH B PATIL,SAN,parthb.cs23@bmsce.ac.in,,Male
+26,2023BMS00620,PATHAMEKALA YOGESH REDDY,SAN,pathamekala.cs23@bmsce.ac.in,,Male
+27,2023BMS00817,PAVITHRA. S,SAN,pavithras.cs23@bmsce.ac.in,,Female
+28,2023BMS00909,PIYUSH S SAMDARIYA,SAN,piyushs.cs23@bmsce.ac.in,,Male
+29,2023BMS01051,PIYUSH SHARMA,SAN,piyushsharma.cs23@bmsce.ac.in,,Male
+30,2023BMS00095,POOJA C HADLI,SAN,poojachaldi.cs23@bmsce.ac.in,,Female
+31,2023BMS01808,POONAM GADHWAL,SAN,poonamgadhwal.cs23@bmsce.ac.in,,Female
+32,2023BMS01699,POORVI NAVEEN,SAN,poorvinaveen.cs23@bmsce.ac.in,,Female
+33,2023BMS00845,POTNURU ASHRITA,SAN,potnuruashrita.cs23@bmsce.ac.in,,Female
+34,2023BMS01360,PRAAGNA DIXIT C K,SAN,praagnadixit.cs23@bmsce.ac.in,,Female
+35,2023BMS01464,PRADHAN SAGAR K,SAN,pradhansagar.cs23@bmsce.ac.in,,Male
+1,2023BMS00632,PRAJWAL M Y,Dr.SP,prajwalmy.cs23@bmsce.ac.in,,Male
+2,2023BMS00051,PRAKRITHI JAIN,Dr.SP,prakrithijain.cs23@bmsce.ac.in,,Female
+3,2023BMS01761,PRAMITHA J O,Dr.SP,pramithajo.cs23@bmsce.ac.in,,Female
+4,2023BMS00539,PRANAV GAJANAN KAMATE,Dr.SP,pranavgajanan.cs23@bmsce.ac.in,,Male
+5,2023BMS01365,PRANAY KUMAR KOMMURI,Dr.SP,pranaykumar.cs23@bmsce.ac.in,,Male
+6,2023BMS00136,PRASOBH RATNA SHAKYA,Dr.SP,prasobh.cs23@bmsce.ac.in,,Male
+7,2023BMS00894,PRATHAM K P,Dr.SP,prathamkp.cs23@bmsce.ac.in,,Male
+8,2023BMS00489,PRATHEEKSHA PAI,Dr.SP,pratheekshapai.cs23@bmsce.ac.in,,Female
+9,2023BMS00564,PRATHEETH S ANGARI,Dr.SP,pratheeths.cs23@bmsce.ac.in,,Male
+10,2023BMS00479,PRATHITH SURESH RAO,Dr.SP,prathithsuresh.cs23@bmsce.ac.in,,Male
+11,2023BMS00821,PRAVEEN RATHOD,Dr.SP,praveeenrathod.cs23@bmsce.ac.in,,Male
+12,2023BMS00353,PREETHAM H D,Dr.SP,preethamhd.cs23@bmsce.ac.in,,Male
+13,2023BMS00581,PRERANA P JOIS,Dr.SP,preranap.cs23@bmsce.ac.in,,Female
+14,2023BMS00710,PRIYAM THAKUR,Dr.SP,priyamthakur.cs23@bmsce.ac.in,,Male
+15,2023BMS00798,R BHUVAN ADITYA,Dr.SP,rbhuvan.cs23@bmsce.ac.in,,Male
+16,2023BMS01136,RACHIT CHANDRA,Dr.SP,rachitchandra.cs23@bmsce.ac.in,,Male
+17,2023BMS00829,RACHIT SINHA,Dr.SP,rachitsinha.cs23@bmsce.ac.in,,Male
+18,2023BMS01470,RAGHAVENDRA ASHOK KUMBAR,Dr.SP,raghavendraashok.cs23@bmsce.ac.in,,Male
+19,2023BMS01432,RAJA VISHWANATH DASARI,Dr.SP,rajavishwanath.cs23@bmsce.ac.in,,Male
+20,2023BMS01029,RAJINDER KUMAR,Dr.SP,rajinderkumar.cs23@bmsce.ac.in,,Male
+21,2023BMS01981,RAKSHIT S BHAT,Dr.SP,rakshits.cs23@bmsce.ac.in,,Male
+22,2023BMS01831,RASHI K S,Dr.SP,rashiks.cs23@bmsce.ac.in,,Female
+23,2023BMS00122,RAYHAN SADAT KANEKAL,Dr.SP,rayhansadat.cs23@bmsce.ac.in,,Male
+24,2023BMS01776,REVATHI R,Dr.SP,revathir.cs23@bmsce.ac.in,,Female
+25,2023BMS00031,RISHAB M JAIN,Dr.SP,rishabm.cs23@bmsce.ac.in,,Male
+26,2023BMS00799,RITHIKA R,Dr.SP,rithikar.cs23@bmsce.ac.in,,Female
+27,2023BMS01882,RITHVIK KUMAR R KRISHNAMURTHY,Dr.SP,rithvikkumar.cs23@bmsce.ac.in,,Male
+28,2023BMS01745,RITHVIK.N,Dr.SP,rithvikn.cs23@bmsce.ac.in,,Male
+29,2023BMS01187,ROHAN B SHEKAR,Dr.SP,rohanb.cs23@bmsce.ac.in,,Male
+30,2023BMS00816,ROHAN VATS,Dr.SP,rohanvats.cs23@bmsce.ac.in,,Male
+31,2023BMS02017,ROSHAN N,Dr.SP,roshann.cs23@bmsce.ac.in,,Male
+32,2023BMS00804,RUDRAKSH SINGH,Dr.SP,rudrakshsingh.cs23@bmsce.ac.in,,Male
+33,2023BMS00100,RUKITH NAYAK,Dr.SP,rukithnayak.cs23@bmsce.ac.in,,Male
+34,2023BMS00625,S GAJA LAKSHMI,Dr.SP,sgajalakshmi.cs23@bmsce.ac.in,,Female
+35,2023BMS00313,S NAFEES,Dr.SP,snafees.cs23@bmsce.ac.in,,Male
+1,2023BMS00032,SAI PRANAV ENJETI,SB,saipranav.cs23@bmsce.ac.in,,Male
+2,2023BMS01265,SAKETH BHARADWAJ K H,SB,sakethbharadwaj.cs23@bmsce.ac.in,,Male
+3,2023BMS01133,SAKSHAM PANDEY,SB,sakshampandey.cs23@bmsce.ac.in,,Male
+4,2023BMS00856,SAKSHAM RAJ,SB,sakshamraj.cs23@bmsce.ac.in,,Male
+5,2023BMS00979,SAKSHAM SHRIVASTAVA,SB,saksham.cs23@bmsce.ac.in,,Male
+6,2023BMS00991,SAM MANU JACOB,SB,sammanu.cs23@bmsce.ac.in,,Male
+7,2023BMS00622,SAMEKSHA,SB,sameksha.cs23@bmsce.ac.in,,Female
+8,2023BMS01487,SAMHITHA A,SB,samhithaa.cs23@bmsce.ac.in,,Female
+9,2023BMS00814,SAMRIDDHI SINGH,SB,samriddhisingh.cs23@bmsce.ac.in,,Female
+10,2023BMS01568,SANATH S SHETTY,SB,sanaths.cs23@bmsce.ac.in,,Male
+11,2023BMS01105,SANCHIT KASHYAP,SB,sanchitkashyap.cs23@bmsce.ac.in,,Male
+12,2023BMS01027,SANCHIT MEHTA,SB,sanchitmehta.cs23@bmsce.ac.in,,Male
+13,2023BMS00832,SANJANA HR,SB,sanjanahr.cs23@bmsce.ac.in,,Female
+14,2023BMS01608,SANJANA SRINIVAS,SB,sanjanasrinivas.cs23@bmsce.ac.in,,Female
+15,2023BMS00861,SANTHOSH N,SB,santhoshn.cs23@bmsce.ac.in,,Male
+16,2023BMS01173,SAREDDY POOJYA SREE,SB,sareddypoojya.cs23@bmsce.ac.in,,Female
+17,2023BMS01231,SARIM ALI,SB,sarimali.cs23@bmsce.ac.in,,Male
+18,2023BMS01434,SARTHAKA MITRA G B,SB,sarthakamitra.cs23@bmsce.ac.in,,Male
+19,2023BMS02342,SATISH GIRISH KUDARE,SB,satishgirish.cs23@bmsce.ac.in,,Male
+20,2023BMS00016,SHAIKH UZAIR AHMED,SB,shaikhuzair.cs23@bmsce.ac.in,,Male
+21,2023BMS00907,SHAMARAO,SB,shamarao.cs23@bmsce.ac.in,,Male
+22,2023BMS01948,SHANKAR SHIVAPPA PUJAR,SB,shankarshivappa.cs23@bmsce.ac.in,,Male
+23,2023BMS00949,SHARADA KOUNDINYA,SB,sharadakoundinya.cs23@bmsce.ac.in,,Female
+24,2023BMS02184,SHASHANK GOWDA L,SB,shashankgowda.cs23@bmsce.ac.in,,Male
+25,2023BMS01302,SHASHANK RAVINDRA KARANAM,SB,shashankravindra.cs23@bmsce.ac.in,,Male
+26,2023BMS02246,SHASHANK SHANTHARAM NAYAK,SB,shashankshantharam.cs23@bmsce.ac.in,,Male
+27,2023BMS01832,SHASHANK. U,SB,shashanku.cs23@bmsce.ac.in,,Male
+28,2023BMS01379,SHIVANSH ASWAL,SB,shivanshaswal.cs23@bmsce.ac.in,,Male
+29,2023BMS00936,SHONAL MAYANK,SB,shonalmayank.cs23@bmsce.ac.in,,Male
+30,2023BMS00036,SHREYA RAJ,SB,shreyaraj.cs23@bmsce.ac.in,,Female
+31,2023BMS00630,SHREYA SATHYANARAYANA,SB,shreya.cs23@bmsce.ac.in,,Female
+32,2023BMS00919,SHREYAS GOWDA C,SB,shreyasgowda.cs23@bmsce.ac.in,,Male
+33,2023BMS01210,SHREYAS R ACHAR,SB,shreyasr.cs23@bmsce.ac.in,,Male
+34,2023BMS00795,SHREYAS SINHA,SB,shreyassinha.cs23@bmsce.ac.in,,Male
+35,2023BMS02214,SHREYAS T S,SB,shreyasts.cs23@bmsce.ac.in,,Male
+1,2023BMS01506,SINCHANA HEMANTH,SAK,sinchanahemanth.cs23@bmsce.ac.in,,Female
+2,2023BMS01037,SIRIPURAPU MANASWI,SAK,siripurapu.cs23@bmsce.ac.in,,Female
+3,2023BMS00039,SKANDA MAHESH,SAK,skandamahesh.cs23@bmsce.ac.in,,Male
+4,2023BMS00544,SNEHA S BHAIRAPPA,SAK,snehas.cs23@bmsce.ac.in,,Female
+5,2023BMS01170,SOHAM ARORA,SAK,sohamarora.cs23@bmsce.ac.in,,Male
+6,2023BMS00149,SOHAM HATHI,SAK,sohamhathi.cs23@bmsce.ac.in,,Male
+7,2023BMS02240,SOHAN R,SAK,sohanr.cs23@bmsce.ac.in,,Male
+8,2023BMS01681,SPANDANA M R,SAK,spandanamr.cs23@bmsce.ac.in,,Female
+9,2023BMS00789,SPURTHI REDDY P,SAK,spurthireddy.cs23@bmsce.ac.in,,Female
+10,2023BMS00843,SRINIDHI B V,SAK,srinidhibv.cs23@bmsce.ac.in,,Male
+11,2023BMS00193,SRUJAN K R,SAK,srujankr.cs23@bmsce.ac.in,,Male
+12,2023BMS01707,SRUSHTI SUNKAD,SAK,srushtisunkad.cs23@bmsce.ac.in,,Female
+13,2023BMS00624,Sthavir Kiran Kulkarni,SAK,sthavirkiran.cs23@bmsce.ac.in,,Male
+14,2023BMS01603,SUBRAMANYA J,SAK,subramanyaj.cs23@bmsce.ac.in,,Male
+15,2023BMS00017,SUHAN S,SAK,suhans.cs23@bmsce.ac.in,,Male
+16,2023BMS01785,SUHAS BP,SAK,suhasbp.cs23@bmsce.ac.in,,Male
+17,2023BMS00162,SUHAS M S,SAK,suhasms.cs23@bmsce.ac.in,,Male
+18,2023BMS00893,SUMANTH S SHETTY,SAK,sumanths.cs23@bmsce.ac.in,,Male
+19,2023BMS01238,SURYANSH SHAHI,SAK,suryanshshahi.cs23@bmsce.ac.in,,Male
+20,2023BMS01422,SUSHANTH,SAK,sushanthc.cs23@bmsce.ac.in,,Male
+21,2023BMS01820,SUSHMA B T,SAK,sushmabt.cs23@bmsce.ac.in,,Female
+22,2023BMS01687,SUSHMITHA K L,SAK,sushmithakl.cs23@bmsce.ac.in,,Female
+23,2023BMS00787,SUSHRAVYA R,SAK,sushravyar.cs23@bmsce.ac.in,,Female
+24,2023BMS00797,T Tilak Reddy,SAK,ttilak.cs23@bmsce.ac.in,,Male
+25,2023BMS00951,TAMANNA BARMAN,SAK,tamannabarman.cs23@bmsce.ac.in,,Female
+26,2023BMS01398,TANAY S HUDDAR,SAK,tanays.cs23@bmsce.ac.in,,Male
+27,2023BMS00478,TANISHQ J AMIN,SAK,tanishqj.cs23@bmsce.ac.in,,Male
+28,2023BMS00153,TANMAY AGRAWAL,SAK,tanmayagr2021@gmail.com,,Male
+29,2023BMS00087,TANMAY TALANKI RAJEEVA,SAK,tanmaytalanki.cs23@bmsce.ac.in,,Male
+30,2023BMS02143,TANMAY VASISHTA,SAK,tanmayVasishta.cs23@bmsce.ac.in,,Male
+31,2023BMS00054,TANUSHREE DESHPANDE,SAK,tanushreedeshpande.cs23@bmsce.ac.in,,Female
+32,2023BMS01109,TARUN GOWDA V,SAK,tarungowdav.cs23@bmsce.ac.in,,Male
+33,2023BMS01577,TARUN S SUNADOLI,SAK,tarunssunadoli.cs23@bmsce.ac.in,,Male
+34,2023BMS01216,TEJAS JOSHI,SAK,tejassanjeev.cs23@bmsce.ac.in,,Male
+35,2023BMS00793,THANISH A SHETTY,SAK,thanisha.cs23@bmsce.ac.in,,Male
+1,2023BMS00477,TRISHUL, Shazia P A,trishul.cs23@bmsce.ac.in,,Male
+2,2023BMS01526,U KARTHIKEY, Shazia P A,ukarthikey.cs23@bmsce.ac.in,,Male
+3,2023BMS01355,UNNATI BANSAL, Shazia P A,unnatibansal.cs23@bmsce.ac.in,,Female
+4,2023BMS00822,V SARVESHVARAN, Shazia P A,vsarveshvaran.cs23@bmsce.ac.in,,Male
+5,2023BMS01247,VAIBHAV KUMAR, Shazia P A,vaibhavkumar.cs23@bmsce.ac.in,,Male
+6,2023BMS00627,VAIBHAV S KEERTHI, Shazia P A,vaibhavs.cs23@bmsce.ac.in,,Male
+7,2023BMS00619,VANSH GANDHI, Shazia P A,vanshvikesh.cs23@bmsce.ac.in,,Male
+8,2023BMS00610,VANSHIKA KATARIA, Shazia P A,vanshikakataria.cs23@bmsce.ac.in,,Female
+9,2023BMS00841,VARSHA A Y, Shazia P A,varshaay.cs23@bmsce.ac.in,,Female
+10,2023BMS01491,VARSHA M GOWDA, Shazia P A,varsham.cs23@bmsce.ac.in,,Female
+11,2023BMS00325,VARSHA VIRUPAKSHA GUJJALA, Shazia P A,varshavirupaksha.cs23@bmsce.ac.in,,Female
+12,2023BMS00862,VARSHITHA B, Shazia P A,varshithab.cs23@bmsce.ac.in,,Female
+13,2023BMS01439,VEDANTH CR, Shazia P A,vedanthcr.cs23@bmsce.ac.in,,Male
+14,2023BMS01869,VEDIKA S S, Shazia P A,vedikass.cs23@bmsce.ac.in,,Female
+15,2023BMS01784,VENUGOPAL M, Shazia P A,venugopalm.cs23@bmsce.ac.in,,Male
+16,2023BMS00105,VIAMRSH BUYYANI, Shazia P A,viamrsh.cs23@bmsce.ac.in,,Male
+17,2023BMS01553,VIJAY J, Shazia P A,vijayj.cs23@bmsce.ac.in,,Male
+18,2023BMS02278,VIJETH M D, Shazia P A,vijethmd.cs23@bmsce.ac.in,,Male
+19,2023BMS01752,VIKAS P R, Shazia P A,vikaspr.cs23@bmsce.ac.in,,Male
+20,2023BMS01698,VIKAS SHASHI, Shazia P A,vikasshashi.cs23@bmsce.ac.in,,Male
+21,2023BMS01731,VINAY G M, Shazia P A,vinaygm.cs23@bmsce.ac.in,,Male
+22,2023BMS01014,VINAYAK SUNIL RODD, Shazia P A,vinayaksunil.cs23@bmsce.ac.in,,Male
+23,2023BMS00583,VISHWAJIT ANAND, Shazia P A,vishwajit.cs23@bmsce.ac.in,,Male
+24,2023BMS02338,VISMITHA RAJ S DOSHI, Shazia P A,vismitharaj.cs23@bmsce.ac.in,,Female
+25,2023BMS00608,VIVAN SANJAY URS, Shazia P A,vivansanjay.cs23@bmsce.ac.in,,Male
+26,2023BMS02089,YASHWANTH E, Shazia P A,yashwanthe.cs23@bmsce.ac.in,,Male
+27,2023BMS02041,YASHWANTH S, Shazia P A,yashwanths.cs23@bmsce.ac.in,,Male
+28,2023BMS01760,YEDUGURI SAI RACHITHA REDDY, Shazia P A,rachithar94@gmail.com,,Female
+29,2023BMS00091,YERUVA TANIYA PAUL, Shazia P A,yeruvataniya.cs23@bmsce.ac.in,,Female
+30,2023BMS00852,YOGARAJ K H, Shazia P A,yogarajkh.cs23@bmsce.ac.in,,Male
+1,2023BMS01404,YUKTA C,Dr. Mallikarjuna B,yuktac.cs23@bmsce.ac.in,,Female
+2,2023BMS01897,ZAIN MAHEDI,Dr. Mallikarjuna B,zainmahedi.cs23@bmsce.ac.in,,Male
+3,,SAGIVAISHNAVI,Dr. Mallikarjuna B,sagivaishnavi.cs23@bmsce.ac.in,9440192244,Female
+4,2023BMS02436,DHARUNYA BALAVELAVAN,Dr. Mallikarjuna B,dharunya.cs23@bmsce.ac.in,9842792312,Female
+5,,RITU SINHA,Dr. Mallikarjuna B,ritusinha.cs23@bmsce.ac.in,9508310490,Female
+6,,ARCHIE JAIN,Dr. Mallikarjuna B,archiejain.cs23@bmsce.ac.in,8050106744,Female
+8,,AISHWARYA R,Dr. Mallikarjuna B,aishwaryar.cs23@bmsce.ac.in,8277288086,Female
+9,,RAKSHITHA YATHIRAJ ,Dr. Mallikarjuna B,rakshithayathiraj.cs23@bmsce.ac.in,6361720832,Female
+11,,SANA SUBODH,Dr. Mallikarjuna B,sanasubodh.cs23@bmsce.ac.in,6299738752,Female
+12,,ISHAN AHUJA,Dr. Mallikarjuna B,ishanahuja.cs23@bmsce.ac.in,7651808581,Male
+13,,MANIDEEP POKA,Dr. Mallikarjuna B,manideeppoka.cs23@bmsce.ac.in,7431219502,Male
+14,,ROHIT BASAVALINGAPPA KAMATAR,Dr. Mallikarjuna B,rohitbk5555@gmail.com,9380188754,Male
+15,,HEMANTH Y U,Dr. Mallikarjuna B,hemanthyu.cs23@bmsce.ac.in,7795649596,Male
+16,,RAGHAV KAUSHAL,Dr. Mallikarjuna B,raghavkaushal.cs23@bmsce.ac.in,8397027378,Male
+17,,HEMANSHU DHIMAN,Dr. Mallikarjuna B,hemanshu.cs23@bmsce.ac.in,6230055151,Male
+18,,PUNARNAVA VISWANATH,Dr. Mallikarjuna B,punarnava.cs23@bmsce.ac.in,8073337108,Male
+19,,HARBAKHSHISH SINGH ARORA,Dr. Mallikarjuna B,harbakhshish.cs23@bmsce.ac.in,9877374401,Male
+20,,BHAVYA GOYAL,Dr. Mallikarjuna B,bhavyagoyal.cs23@bmsce.ac.in,8000809210,Male
+21,,SAMIR CHAUDHARY,Dr. Mallikarjuna B,samirchaudhary.cs23@bmsce.ac.in,6362567807,Male
+22,,SIDDHARTH ARYA,Dr. Mallikarjuna B,siddhartharya.cs23@bmsce.ac.in,9741613367,Male
+23,,TANISH AGRAWAL,Dr. Mallikarjuna B,tanishagrawal.cs23@bmsce.ac.in,8339854189,Male
+24,,CHIRAIYA SETHIYA,Dr. Mallikarjuna B,chiraiyasethiya.cs23@bmsce.ac.in,9660040071,Female
+25,,LAKSHAY JUNEJA,Dr. Mallikarjuna B,lakshayjuneja.cs23@bmsce.ac.in,8690757038,Male
+26,,SUJAN G E,Dr. Mallikarjuna B,sujange.cs23@bmsce.ac.in,7411522067,Male
+27,,YATHARTH SINGH,Dr. Mallikarjuna B,yatharthsingh.cs23@bmsce.ac.in,9901366715,Male
+28,2023BMS00784,S NAGASHREE,Dr. Mallikarjuna B,snagashree.cs23@bmsce.ac.in,,Female
+29,2023BMS00831,S PURVI PRATHYUSHA,Dr. Mallikarjuna B,spurvi.cs23@bmsce.ac.in,,Female
+30,2023BMS00796,SAANVI S,Dr. Mallikarjuna B,saanvis.cs23@bmsce.ac.in,,Female
+1,2023BMS00974,SAHASRA MUSALIKUNTA, Dr. Chaitra V,sahasra.cs23@bmsce.ac.in,,Female
+2,2023BMS01031,SAHIL SHARMA, Dr. Chaitra V,sahilsharma.cs23@bmsce.ac.in,,Male
+3,2023BMS00596,SHRI ADITYA A, Dr. Chaitra V,shriaditya.cs23@bmsce.ac.in,,Male
+4,2023BMS01488,SHRINANDA SHIVPRASAD DINDE, Dr. Chaitra V,shrinanda.cs23@bmsce.ac.in,,Female
+5,2023BMS01209,SHUBHANSHU RAJ, Dr. Chaitra V,shubhanshuraj.cs23@bmsce.ac.in,,Male
+6,2023BMS00806,SIDDHANT SAWHNEY, Dr. Chaitra V,siddhantsawhney.cs23@bmsce.ac.in,,Male
+7,2023BMS01992,SINCHANA, Dr. Chaitra V,sinchana.cs23@bmsce.ac.in,,Female
+8,2023BMS02341,THANMAY K H, Dr. Chaitra V,thanmay.cs23@bmsce.ac.in,,Male
+9,2023BMS00819,THANU GEORGE, Dr. Chaitra V,thanugeorge.cs23@bmsce.ac.in,,Female
+10,2023BMS00948,THEJAS.P, Dr. Chaitra V,thejasp.cs23@bmsce.ac.in,,Male
+11,2023BMS00810,THILAK K, Dr. Chaitra V,thilakk.cs23@bmsce.ac.in,,Male
+12,2023BMS00491,TRISHA L SALIAN, Dr. Chaitra V,trishal.cs23@bmsce.ac.in,,Female
+13,2023BMS02484,ANJALI PATEL , Dr. Chaitra V,anjalipatel.cs23@bmsce.ac.in,7000463853,Female
+14,2023BMS02508,SIDDHANT SAHARE, Dr. Chaitra V,siddhantsahare.cs23@bmsce.ac.in,7470420769,Male
+15,,K S PHANINDRA , Dr. Chaitra V,ksphanindra.cs23@bmsce.ac.in,9392746515,Male
+16,2023BMS02538,K C SAI NITHIN, Dr. Chaitra V,sainithin.cs23@bmsce.ac.in,9353735838,Male
+17,2023BMS02490,KATTA CHAITANYA KRISHANA SAI , Dr. Chaitra V,kattachaitanya.cs23@bmsce.ac.in ,9885251133,Male
